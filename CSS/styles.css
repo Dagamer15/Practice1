@@ -20,7 +20,7 @@
         height: inherit;
         min-height: 315px;
         float: right;
-        background-image: linear-gradient(hsla(277, 64%, 61%, 0.4), hsla(277, 64%, 61%, 0.4)), url('/images/image-header-desktop.jpg');
+        background-image: linear-gradient(hsla(277, 64%, 61%, 0.4), hsla(277, 64%, 61%, 0.4)), url('/Practice1/images/image-header-desktop.jpg');
         background-position: 100%;
         background-size: 100% 26.5em;
         background-repeat: no-repeat;
@@ -89,7 +89,7 @@
         min-height: 0;
         border-top-right-radius: 5px;
         border-top-left-radius: 5px;
-        background-image: linear-gradient(hsla(277, 64%, 61%, 0.4), hsla(277, 64%, 61%, 0.4)), url('/images/image-header-mobile.jpg');
+        background-image: linear-gradient(hsla(277, 64%, 61%, 0.4), hsla(277, 64%, 61%, 0.4)), url('/Practice1/images/image-header-mobile.jpg');
         background-color: hsl(277, 64%, 61%);
         background-repeat: no-repeat;
         background-size: 100%;
